@@ -14,6 +14,12 @@ Browser → Node.js App (EC2) → Mounted S3 Files (/mnt/s3files) → Amazon S3 
 
 ---
 
+## 🏗️ Architecture Diagram
+
+<p align="center">
+  <img src="Screenshots/architecture-diagram.png" width="900"/>
+</p>
+
 ## ⚙️ Tech Stack
 
 * ☁️ AWS EC2 (Ubuntu 24.04)

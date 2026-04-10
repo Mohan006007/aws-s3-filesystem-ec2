@@ -211,7 +211,7 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ## 🏆 Highlight
 
-**“Implemented AWS S3 Files mounted on EC2 using VPC Interface Endpoint, enabling secure and scalable file operations through a Node.js application.”**
+**Implemented AWS S3 Files mounted on EC2 using VPC Interface Endpoint, enabling secure and scalable file operations through a Node.js application.**
 
 ---
 
@@ -234,5 +234,11 @@ project/
 * Automate infra using Terraform
 * Add Nginx reverse proxy
 * Implement IAM role-based access
+---
+
+## 📚 References
+
+- AWS Blog: [Launching S3 Files – Making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/)
+- AWS Documentation: https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-files.html
 
 ---

@@ -133,10 +133,53 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ## 📸 Screenshots
 
-* Home page (`/`)
-* Write endpoint (`/write`)
-* Read endpoint (`/read`)
-* S3 bucket file view
+### 🌐 Home Page
+![Home](Screenshots/Screenshot%202026-04-10%20193815.png)
+
+---
+
+### ✍️ Write API (/write)
+![Write](Screenshots/Screenshot%202026-04-10%20193750.png)
+
+---
+
+### 📖 Read API (/read)
+![Read](Screenshots/Screenshot%202026-04-10%20193710.png)
+
+---
+
+### 💻 EC2 Instance (App Server Running)
+![EC2](Screenshots/Screenshot%202026-04-10%20193641.png)
+
+---
+
+### 🪣 S3 Bucket (Files Stored)
+![S3](Screenshots/Screenshot%202026-04-10%20193620.png)
+
+---
+
+### 📂 Mounted S3 File System (EC2)
+![Mount](Screenshots/Screenshot%202026-04-10%20193553.png)
+
+---
+
+### 💽 Disk Mount Verification
+![Disk](Screenshots/Screenshot%202026-04-10%20193506.png)
+
+---
+
+### 🔐 Security Group Configuration
+![SG](Screenshots/Screenshot%202026-04-10%20185719.png)
+
+---
+
+### 🔗 VPC Endpoint (S3fs Endpoint)
+![Endpoint](Screenshots/Screenshot%202026-04-10%20185711.png)
+
+---
+
+### 🧱 Endpoint Details
+![Details](Screenshots/Screenshot%202026-04-10%20185642.png)
 
 ---
 

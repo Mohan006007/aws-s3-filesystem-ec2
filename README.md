@@ -153,7 +153,7 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ---
 
-### 🔗 VPC Endpoint (S3fs Endpoint)
+### 📂 S3 File System (Overview)
 ![EC2](Screenshots/Screenshot%202026-04-10%20193641.png)
 
 ---

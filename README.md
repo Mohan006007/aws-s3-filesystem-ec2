@@ -133,8 +133,6 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ## 📸 Screenshots
 
-Add these images:
-
 * Home page (`/`)
 * Write endpoint (`/write`)
 * Read endpoint (`/read`)

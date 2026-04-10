@@ -133,7 +133,7 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ## 📸 Screenshots
 
-### 🌐 Home Page
+### 🔐 Security Group Configuration
 ![Home](Screenshots/Screenshot%202026-04-10%20193815.png)
 
 ---
@@ -168,17 +168,17 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ---
 
-### 🔐 Security Group Configuration
+### ✍️ Write API (/write)
 ![SG](Screenshots/Screenshot%202026-04-10%20185719.png)
 
 ---
 
-### 🔗 VPC Endpoint (S3fs Endpoint)
+### 📖 Read API (/read)
 ![Endpoint](Screenshots/Screenshot%202026-04-10%20185711.png)
 
 ---
 
-### 🧱 Endpoint Details
+### 🌐 Home Page
 ![Details](Screenshots/Screenshot%202026-04-10%20185642.png)
 
 ---

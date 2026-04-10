@@ -133,17 +133,22 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ## 📸 Screenshots
 
+### 🌐 Home Page
+![Details](Screenshots/Screenshot%202026-04-10%20185642.png)
+
+---
+
 ### 🔐 Security Group Configuration
 ![Home](Screenshots/Screenshot%202026-04-10%20193815.png)
 
 ---
 
-### ✍️ Write API (/write)
+### 🧱 Endpoint Details
 ![Write](Screenshots/Screenshot%202026-04-10%20193750.png)
 
 ---
 
-### 📖 Read API (/read)
+### 📂 Mounted S3 File System (EC2)
 ![Read](Screenshots/Screenshot%202026-04-10%20193710.png)
 
 ---
@@ -153,12 +158,12 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ---
 
-### 🪣 S3 Bucket (Files Stored)
+### 
 ![S3](Screenshots/Screenshot%202026-04-10%20193620.png)
 
 ---
 
-### 📂 Mounted S3 File System (EC2)
+### 🪣 S3 Bucket (Files Stored)
 ![Mount](Screenshots/Screenshot%202026-04-10%20193553.png)
 
 ---
@@ -175,11 +180,6 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ### 📖 Read API (/read)
 ![Endpoint](Screenshots/Screenshot%202026-04-10%20185711.png)
-
----
-
-### 🌐 Home Page
-![Details](Screenshots/Screenshot%202026-04-10%20185642.png)
 
 ---
 

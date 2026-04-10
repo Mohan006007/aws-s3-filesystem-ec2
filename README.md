@@ -153,12 +153,12 @@ app.listen(PORT, "0.0.0.0", () => {
 
 ---
 
-### 💻 EC2 Instance (App Server Running)
+### 🔗 VPC Endpoint (S3fs Endpoint)
 ![EC2](Screenshots/Screenshot%202026-04-10%20193641.png)
 
 ---
 
-### 
+### 💻 EC2 Instance (App Server Running)
 ![S3](Screenshots/Screenshot%202026-04-10%20193620.png)
 
 ---
